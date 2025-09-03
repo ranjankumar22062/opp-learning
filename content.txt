@@ -1,0 +1,11 @@
+1. Class and Object
+2. class has data/attributes and function/methods
+3. wht python called object oriented programimg
+4. Advantages of oops:
+  > you can create your own datatype
+  > code reusability
+  > debugging
+  > easy to colab
+  >
+
+
