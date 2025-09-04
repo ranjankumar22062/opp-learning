@@ -8,4 +8,12 @@
   > easy to colab
   >
 
+  5. END to END project (chatbook)
+   > funtions vs methods
+   > you can create your own datatypes
+   > code reusability
+   > debugging
+   > easy to colab
+
+
 
